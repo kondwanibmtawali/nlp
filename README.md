@@ -1,6 +1,4 @@
-# NLP Repository
-
-Welcome to my **Natural Language Processing (NLP)** repository! 🚀
+# NLP Repository 🚀
 
 This repository contains a Jupyter notebook exploring fundamental and practical concepts in Natural Language Processing using Python.
 
